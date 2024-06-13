@@ -2,6 +2,7 @@
 Retain original source of users when they accept cookie banner cookies at later stage during their browsing.
 
 How to use the template:
+1. Download the json file in this repository;
 1. Go to your Container settings and click Import;
 2. Merge your new template with current container;
 3. Go to your GA Tag and do the following:
